@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = '1.0.0'
   s.summary      = "The paging cover layout for UIScrollView."
   s.homepage     = 'https://github.com/jrcjing/PagingCover'
-  s.license      = 'MIT'
+  s.license      = "Copyright (c) 2015年 Lisa. All rights reserved."
   s.author       = { 'Lisa'    => '670306170@qq.com' }
   s.source       = { :git => 'https://github.com/jrcjing/PagingCover.git', :tag => '1.0.0' }
   s.platform     = :ios, '7.0'
